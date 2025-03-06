@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **Asp.net**
 
+- 🏫 I'm a student in **Zhejiang University**. Majored in **Mechanical Engineering**.
+
+- 🧑‍🎓 I'm part of **Advanced Class of Engineering Education (ACEE)**.
+
 - 👯 I’m looking to collaborate on [xzzd-enhanced](https://github.com/ZJUKongroo/xzzd-enhanced)
 
 - 📝 I regularly write articles on [blog.cast1e.top](blog.cast1e.top)
